@@ -5,17 +5,7 @@ Table of Contents
 Prerequisites
 Project Structure
 Getting Started
-Features
-Customization
-Demo
-Contributing
-License
-Prerequisites
-Before you begin, ensure you have the following tools installed:
 
-A code editor (e.g., Visual Studio Code, Sublime Text, or any other of your choice).
-A web browser (e.g., Google Chrome, Mozilla Firefox, or any other of your choice).
-Project Structure
 index.html: The HTML file that contains the calculator interface.
 style.css: The CSS file for styling the calculator.
 script.js: The JavaScript file that handles the calculator logic.
