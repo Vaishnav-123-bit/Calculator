@@ -1,9 +1,6 @@
 Simple Web Calculator
 This project is a basic web calculator created using HTML, CSS, and JavaScript. It allows users to perform addition, subtraction, multiplication, and division operations.
 
-
-
-\
 index.html: The HTML file that contains the calculator interface.
 style.css: The CSS file for styling the calculator.
 script.js: The JavaScript file that handles the calculator logic.
