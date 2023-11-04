@@ -5,6 +5,7 @@ index.html: The HTML file that contains the calculator interface.
 style.css: The CSS file for styling the calculator.
 script.js: The JavaScript file that handles the calculator logic.
 Getting Started
+
 Clone or download this repository to your local machine.
 
 bash
